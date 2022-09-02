@@ -22,5 +22,5 @@ MoMA's collection offers an overview of **modern and contemporary art**, includi
 * Rockefeller Center<br>
 * Radiance Tea House and Books<br>
 
-[link to About file](AboutMe.md)
+[link to AboutMe file](AboutMe.md)
 
