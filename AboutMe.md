@@ -17,3 +17,9 @@ Here we are creating a table with four cities which describes about name of the 
 |Hyderabad | Salarjung museum|3hrs|
 |Bangalore|Nandi hills|2-3hrs|
 |Vizag|Rushikonda Beach|3-4hrs|
+
+---
+# Quoting
+> *The way to get started is to quit talking and begin doing*<br>
+
+> *Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma*
