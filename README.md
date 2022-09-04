@@ -9,10 +9,10 @@ MoMA's collection offers an overview of **modern and contemporary art**, includi
  ---
  # Nearby Airport
  The nearest airport to Museum of Modern Art is **New York Skyports Seaplane Base (NYS) Airport**<br>
- There are 6 ways to get from New York JFK Airport (JFK) to Museum of Modern Art by tram, subway, bus, taxi, car, shuttle or towncar<br>
+ 1. There are 6 ways to get from New York JFK Airport (JFK) to Museum of Modern Art by tram, subway, bus, taxi, car, shuttle or towncar<br>
 
- At first we need to book a cab after your arrival to the airport which is the best means of transport and of reasonable prices <br>
- Secondly you can take some rest and refresh yourself at Newyork Hilton Midtown hotel which is just 0.07 miles to museum.<br>
+ 2. At first we need to book a cab after your arrival to the airport which is the best means of transport and of reasonable prices <br>
+ 3. Secondly you can take some rest and refresh yourself at Newyork Hilton Midtown hotel which is just 0.07 miles to museum.<br>
  So after refreshing you can visit the museum<br>
 
 **Locations**<br>
