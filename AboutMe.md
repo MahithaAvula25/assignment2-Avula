@@ -20,9 +20,9 @@ Here we are creating a table with four cities which describes about name of the 
 
 ---
 # Quoting
-> *The way to get started is to quit talking and begin doing*<br>
+> The way to get started is to quit talking and begin doing-*Anthony*<br>
 
-> *Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma*
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma-*Stephen*<br>
 
 ---
 # HTML
