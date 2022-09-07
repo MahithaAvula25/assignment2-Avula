@@ -5,7 +5,7 @@ Rubber bands last longer when refrigerated.<br>
 Wearing headphones for just an hour could increase the bacteria in your ear by 700 times<br>
 sun rises in the east and sets in the west<br>
 
-![Tree](TREE.jpg)
+![Mahitha](image.jpeg)
 
 ---
 # TABLE CREATION
