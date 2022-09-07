@@ -20,7 +20,7 @@ MoMA's collection offers an overview of **modern and contemporary art**, includi
 * Austrian Cultural Forum<br>
 * Onassis Cultural Center<br>
 * Rockefeller Center<br>
-* Radiance Tea House and Books<br>
+* Radiance Tea House and Book<br>
 
 [link to AboutMe file](AboutMe.md)
 
